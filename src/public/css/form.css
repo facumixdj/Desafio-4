@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.formulario {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: whitesmoke;
+}
+
+label{
+    font-size: 20px;
+
+}
+input {
+    display: block;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    background-color: aliceblue;
+}
+
+input {
+    width: 100%;
+}
+
+button {
+    cursor: pointer;
+    color: rgb(4, 3, 24);
+    padding: 1rem 1.5rem;
+    border-radius: 8px;
+    border: 1px solid rgb(14, 70, 21);
+    background-color: rgb(190, 190, 190);
+}
+
+.button {
+    text-align: center;
+}
+.footer {
+    text-align: center;
+}
